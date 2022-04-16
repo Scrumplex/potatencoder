@@ -1,9 +1,30 @@
-				Chad Potat General License
+				Chad Potat General License Version 1.0
+
 Copyright (C) 2022 dada513
 
+1. Definitions
+1a. Source Code - In computing, source code is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text. The source code of a program is specially designed to facilitate the work of computer programmers, who specify the actions to be performed by a computer mostly by writing source code. The source code is often transformed by an assembler or compiler into binary machine code that can be executed by the computer. The machine code might then be stored for execution at a later time. Alternatively, source code may be interpreted and thus immediately executed.
+2b. Program - the software (both the source code and other resources) distributed under this license
+
+2. Permissions
 Permission is granted to freely copy, modify,
 and distribute the resources covered by this license,
- as long as the following conditions are met:
-- 1. The program's name remains a derivative from the original name. For example, renaming a program named "bruh" to "bruhmium" is acceptable, but renaming it to "haha" is not.
-- 2. The derivative work is distributed freely, without requiring special access, on the Internet, under the same license
+as long as the following conditions are met:
+
+3. Conditions
+- 1. If the program is modified, it must be distributed under a different name.
+However, the new name must contain a part of the previous name. 
+Examples of such names include a project named "bruh" being renamed to "bruhmium" or "bruh-ng". However renaming the same project to "hehe" is disallowed.
+- 2. The derivative work is distributed freely, under the same license
 - 3. Credit to the original work is retained
+- 4. The Program covered by this License must not be,
+under any circumstances, used for Evil Purposes.
+- 5. Russians are allowed to distribute and modify the program, but running it is disallowed
+- 6. Users of "MultiMC" must remove "MultiMC" before using this program, or use an alternative such as "PolyMC"
+- 7. Users that suffer from the Ligma disease must not view the source code, distribute, nor run the Program.
+- 8. Residents of Afghanistan must uninstall "Microsoft Word" before using this Program.
+- 9. Germans must not use this program unless they have purchased a license for "Minecraft"
+- 10. The Program cannot be used with the purpose of loading it with the  "Forge" mod loader, so users need to switch to alternatives like "Fabric" and "Quilt"
+- 11. Running the program on the "Windows" operating system is forbidden. Users must install "Linux" or another Operating System
+- 12. Users of "3dfx" hardware in Monaco are forbidden to modify this Program
+- 13. Americans that modify and distribute the Program must include the word "freedom" in the name
